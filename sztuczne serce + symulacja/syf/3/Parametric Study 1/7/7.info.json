@@ -1,0 +1,67 @@
+{
+    "version": 0,
+    "model_name": "złozenie sztucznego serca.SLDASM",
+    "project_name": "Design Point 2",
+    "config_name": "Domyślna",
+    "project_path": "C:\\Users\\Jakub\\Desktop\\3\\Parametric Study 1\\7\\7.xmlconfig",
+    "finished": true,
+    "mesh": {
+        "cells_total": 7525,
+        "cells_fluid": 7525,
+        "cells_solid": 9522,
+        "cells_fluid_containing_solid": 4747
+    },
+    "telemetry": {
+        "prepare_geometry_finished": "21:08:45+0200",
+        "prepare_geometry_total_time": 1,
+        "cpu_time_solver_total": 31,
+        "iteration": 160,
+        "travel": 3.99999999999999,
+        "phys_time": 0.0,
+        "time_step": 0.0,
+        "last_iteration_finished": "21:09:13+0200",
+        "cpu_time_per_last_iter": 0,
+        "cpu_time_left": 0,
+        "iterations_per_travel": 41
+    },
+    "goals": [
+        {
+            "goal": {
+                "name": "SG Maximum Velocity 1",
+                "unit": "speed and velocity",
+                "value": 0.2699759063873227,
+                "progress": 49.3,
+                "criteria": 0.0006305337684769787,
+                "delta": 0.0012781174335771972,
+                "use_in_convergence": true
+            }
+        }
+    ],
+    "settings": {
+        "default_fluids": [
+            "Blood"
+        ],
+        "analysis_type": "internal",
+        "heat_conduction_in_solids": false,
+        "radiation": false,
+        "time_dependent": false,
+        "gravity": false,
+        "flow_type": "laminar",
+        "cavitation": false,
+        "high_mach_number": true,
+        "free_surface": false,
+        "structural": false,
+        "electromagnetism": false
+    },
+    "system_info": {
+        "product_name": "Flow Simulation 2023  x64 / 6175 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2",
+        "cad_version": "SOLIDWORKS 2023 SP5.0",
+        "computer_name": "DESKTOP-VM7D83N",
+        "user_name": "Jakub",
+        "os": "Windows 10 (Version 10.0.19045)",
+        "cpu": "Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz",
+        "number_of_cores": 4,
+        "memory_avail": 7859,
+        "memory_total": 16336
+    }
+}

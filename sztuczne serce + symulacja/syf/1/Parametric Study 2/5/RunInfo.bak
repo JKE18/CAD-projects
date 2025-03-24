@@ -1,0 +1,29 @@
+﻿absolute path:C:\Users\Jakub\Desktop\1\Parametric Study 2\5
+init:1
+run_capture:0
+run_solver:1
+new_calc:1
+close_monitor:1
+run_convert:0
+isOK:1
+ForceNewCalc:0
+run_capture_prestate:0
+StartFldName:C:\Users\Jakub\Desktop\1\Parametric Study 2\5\5.fld
+NewCalcStartCptName:
+TransTimeMoments:
+TransFldNames:
+CurSelTranFld:0
+Trans:0
+UsePrevRes:0
+ForcetoRunCPT:0
+ComputerName:
+port:62019
+ProcessResults:1
+LoadLastResult:0
+ProcessorsToUse:4
+LoadBaseFLDFile:0
+BaseFLDFile:
+id:{CC6D9EB2-D690-46BA-A515-7242D567229C}
+calculation_state:9
+ForceContinue:0
+SolverProcessId:16648

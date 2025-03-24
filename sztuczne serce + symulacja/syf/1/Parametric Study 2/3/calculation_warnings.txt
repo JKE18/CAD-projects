@@ -1,0 +1,7 @@
+2024-May-08 20:55:28
+Computer name:	DESKTOP-VM7D83N
+Number of cores used in calculation:	4
+Configuration name:	Domyślna
+Project name:	Project(1)
+
+Warnings on last iteration: 
